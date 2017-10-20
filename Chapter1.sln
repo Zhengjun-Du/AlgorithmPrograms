@@ -71,7 +71,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "单链表右移K位", "单�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最长上升自序列", "最长上升自序列\最长上升自序列.vcxproj", "{8A14CC93-13EF-42F8-8B06-DC13D0F423EE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarySearch", "BinarySearch\BinarySearch.vcxproj", "{98EC306D-8028-4158-AE0A-2E321BCDCDAE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二分搜索", "BinarySearch\BinarySearch.vcxproj", "{98EC306D-8028-4158-AE0A-2E321BCDCDAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -446,8 +446,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(Performance) = preSolution
-		HasPerformanceSessions = true
 	EndGlobalSection
 EndGlobal

@@ -96,6 +96,21 @@ int BinarySearch_v5(int e, int lo, int hi)
 }
 
 
+//6.一般方法，找到即可，不考虑位置
+int BinarySearch_v6(int e, int lo, int hi)
+{
+	while(lo < hi - 1)
+	{
+		int mid = (lo + hi) / 2;
+		if(data[mid] <= e)
+			lo = mid;
+		else
+			hi = mid;
+	}
+	return lo;
+}
+
+
 
 int _tmain(int argc, _TCHAR* argv[])
 {
@@ -122,7 +137,7 @@ int _tmain(int argc, _TCHAR* argv[])
     {
         int x = 0;
         cin>>x;
-        int m = BinarySearch_v5(x,0,data.size());
+        int m = BinarySearch_v6(x,0,data.size());
  
         if(m == -1)
             cout<<"not exist"<<endl;
