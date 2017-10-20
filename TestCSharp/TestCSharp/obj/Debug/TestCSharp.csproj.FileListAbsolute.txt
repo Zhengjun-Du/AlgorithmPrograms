@@ -1,0 +1,6 @@
+E:\测试程序\TestCSharp\TestCSharp\bin\Debug\TestCSharp.exe.config
+E:\测试程序\TestCSharp\TestCSharp\bin\Debug\TestCSharp.exe
+E:\测试程序\TestCSharp\TestCSharp\bin\Debug\TestCSharp.pdb
+E:\测试程序\TestCSharp\TestCSharp\obj\Debug\TestCSharp.exe
+E:\测试程序\TestCSharp\TestCSharp\obj\Debug\TestCSharp.pdb
+E:\测试程序\TestCSharp\TestCSharp\obj\Debug\TestCSharp.csprojResolveAssemblyReference.cache
