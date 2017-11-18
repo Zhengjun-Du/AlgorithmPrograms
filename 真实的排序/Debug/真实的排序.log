@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/11/3 23:36:00。
+     1>项目“E:\Algorithm_Programs\真实的排序\真实的排序.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\program_software\VS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\真实的排序.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "真实的排序.cpp"
+         真实的排序.cpp
+     1>e:\algorithm_programs\真实的排序\真实的排序.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\algorithm_programs\真实的排序\真实的排序.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\algorithm_programs\真实的排序\真实的排序.cpp(40): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+       Link:
+         D:\program_software\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Algorithm_Programs\Debug\真实的排序.exe" /INCREMENTAL /NOLOGO easyx.lib easyx6.lib easyxw.lib easyxw6.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Algorithm_Programs\Debug\真实的排序.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Algorithm_Programs\Debug\真实的排序.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\真实的排序.obj"
+         真实的排序.vcxproj -> E:\Algorithm_Programs\Debug\真实的排序.exe
+     1>已完成生成项目“E:\Algorithm_Programs\真实的排序\真实的排序.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.83
