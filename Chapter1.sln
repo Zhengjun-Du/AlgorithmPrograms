@@ -85,6 +85,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最优贸易", "最优贸�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CutTheSeauence", "CutTheSeauence\CutTheSeauence.vcxproj", "{824691B3-2780-479B-AC8D-15FD082640D6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线段树", "线段树\线段树.vcxproj", "{895F73A9-FACB-477E-A289-5C58A88E477F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -515,11 +517,18 @@ Global
 		{824691B3-2780-479B-AC8D-15FD082640D6}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{824691B3-2780-479B-AC8D-15FD082640D6}.Release|Win32.ActiveCfg = Release|Win32
 		{824691B3-2780-479B-AC8D-15FD082640D6}.Release|Win32.Build.0 = Release|Win32
+		{895F73A9-FACB-477E-A289-5C58A88E477F}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{895F73A9-FACB-477E-A289-5C58A88E477F}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{895F73A9-FACB-477E-A289-5C58A88E477F}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{895F73A9-FACB-477E-A289-5C58A88E477F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{895F73A9-FACB-477E-A289-5C58A88E477F}.Debug|Win32.Build.0 = Debug|Win32
+		{895F73A9-FACB-477E-A289-5C58A88E477F}.Release|Any CPU.ActiveCfg = Release|Win32
+		{895F73A9-FACB-477E-A289-5C58A88E477F}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{895F73A9-FACB-477E-A289-5C58A88E477F}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{895F73A9-FACB-477E-A289-5C58A88E477F}.Release|Win32.ActiveCfg = Release|Win32
+		{895F73A9-FACB-477E-A289-5C58A88E477F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(Performance) = preSolution
-		HasPerformanceSessions = true
 	EndGlobalSection
 EndGlobal
